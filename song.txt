@@ -5,5 +5,3 @@ line number four
 line number five
 312321
 456456
-
-if god exist this line will be here forever
